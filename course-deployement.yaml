@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app-course-krishna
-          image: 991524241826.dkr.ecr.ap-south-2.amazonaws.com/cloudstudents/krishna-course:latest
+          image: 991524241826.dkr.ecr.ap-south-2.amazonaws.com/cloudstudnets/krishna-course:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 3001
